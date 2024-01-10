@@ -95,4 +95,10 @@ Jupyter Notebook
 * Maximum brands telecasted per episode - 4
 * Minimum brands telecasted per episode - 2
 * Food industry participated the most in both the seasons
+<img width="461" alt="Screenshot 2024-01-11 at 4 09 33 AM" src="https://github.com/rutuja-jadhav29/Shark-Tank-India---EDA-S1-S2/assets/126754368/671e4628-cb31-443b-8f21-fef7eb93bd28">
+<img width="483" alt="Screenshot 2024-01-11 at 4 10 05 AM" src="https://github.com/rutuja-jadhav29/Shark-Tank-India---EDA-S1-S2/assets/126754368/7d72d781-cf00-4c65-9895-c0009917e260">
+<img width="537" alt="Screenshot 2024-01-11 at 4 10 17 AM" src="https://github.com/rutuja-jadhav29/Shark-Tank-India---EDA-S1-S2/assets/126754368/5746d3ab-2a74-4c26-887c-e1b8ee22c9f6">
+
+
+
   
